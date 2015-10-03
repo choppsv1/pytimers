@@ -4,8 +4,8 @@ A Python Timer Library.
 
 A timer library currently supporting the following modules
 
-- ``heap`` - Very efficient timer heap timers. Supports thousands of
-   timers using a single python thread based timer.
+- ``heap`` - Very efficient timer heap timers. Supports thousands of timers
+  using a single python thread based timer.
 
 
 master branch status:
