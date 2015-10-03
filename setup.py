@@ -22,9 +22,9 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup (name='timers',
-       version='0.9.1',
+       version='0.9.2',
        description='Python Timer Library',
-       long_description=read("README.md"),
+       long_description=read("README.rst"),
        author='Christian E. Hopps',
        author_email='chopps@gmail.com',
        license = 'Apache License, Version 2.0',
